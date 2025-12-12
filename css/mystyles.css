@@ -1,0 +1,54 @@
+body {
+    font-family: "Segoe UI", sans-serif;
+     color: #1a3a52
+    background-color: aliceblue;
+}
+
+h1 {
+    font-family: "Segoe UI", sans-serif;
+            color: #1a3a52;
+            margin-bottom: 25px;
+            font-weight: 600;
+      }   
+h2{
+    font-family: "Segoe UI", sans-serif;
+     color: #1a3a52;
+            margin-bottom: 25px;
+            font-weight: 600;
+}
+h3 {
+    font-family: "Segoe UI", sans-serif;
+     color: #1a3a52;
+            margin-bottom: 25px;
+            font-weight: 600;
+}
+h4 {
+    font-family: "Segoe UI", sans-serif;
+     color: #1a3a52;
+            margin-bottom: 25px;
+            font-weight: 600;
+}   
+h5,
+h6,
+p {
+    font-family: "Segoe UI", sans-serif;
+     color: #1a3a52
+}
+
+a {
+    font-family: "Segoe UI", , sans-serif;
+     color: #1a3a52
+
+}
+
+.CSFont {
+    font-family: "Segoe UI", , sans-serif !important;
+     color: #1a3a52
+
+}
+
+img {
+    padding: 4px;
+    border: 5px solid brown;
+    margin: 10px;
+}
